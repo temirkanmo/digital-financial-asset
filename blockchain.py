@@ -1,3 +1,7 @@
+# Digital financial asset for Alfa-Bank
+#
+# Author: Temirkan Uvizhev <temirkanuvi@gmail.com>
+
 from hashlib import sha256
 import json
 from time import time
