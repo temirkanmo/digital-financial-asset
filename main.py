@@ -1,6 +1,6 @@
 # Digital financial asset for Alfa-Bank
 #
-# Author: Temirkan Uvizhev <temirkanuvi@gmail.com>
+# Author: Temirkan Uvizhev <tuvizhev@gmail.com>
 
 from blockchain import Blockchain, Block
 from time import time
