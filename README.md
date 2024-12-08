@@ -1,6 +1,8 @@
 # Digital Financial Asset for Alfa-Bank
 
-Author: temirkanuvi@gmail.com
+Author: tuvizhev@gmail.com
+
+Click to contact me on Telegram [@tuvizhev](https://t.me/tuvizhev)
 
 Indicate the source when using this program.
 
