@@ -6,6 +6,8 @@ Click to contact me on Telegram [@tuvizhev](https://t.me/tuvizhev)
 
 Indicate the source when using this program.
 
+Open `contract.sol` to view the smart contract
+
 ---
 
 # Quick Installation
